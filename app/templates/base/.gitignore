@@ -59,7 +59,6 @@ typings/
 
 # custom
 .yo-rc.json
-.npmignore
 package-lock.json
 .vscode/
 .idea/
